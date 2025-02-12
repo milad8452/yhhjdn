@@ -1,0 +1,9 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+#reminder-form {
+    width: 300px;
+    margin: auto;
+}
